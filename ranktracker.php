@@ -252,22 +252,6 @@ class RankTrackerPlugin extends PluginCallbacks
 
         die($res);
     }
-    
-    /**
-     * Do any necessary installation steps.
-     */
-    /* public function whoosh_install() */
-    /* { */
-    /*     $settings_master = get_option('whoosh_settings_master', False); */
-        
-    /*     if(!$settings_master or $settings_master == 'ranktracker') */
-    /*     { */
-    /*         throw new Exception("Adding in the settings..."); */
-    /*         add_action('admin_init', array(&$this, 'whoosh_settings_init')); */
-    /*     } */
-    /* } */
-    
-
 }
 
 global $WT;
