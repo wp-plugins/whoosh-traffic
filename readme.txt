@@ -3,9 +3,9 @@ Author: Whoosh Traffic
 Contributors: pspringmeyer
 Tags: seo, seo plugin, rank checker, rank tracker, seo software, keyword, keyword research, keyword tool, keyword suggestion
 Requires at least: 2.0.2
-Version: 1.0
+Version: 1.1
 Tested up to: 3.4.1
-Stable tag: tip
+Stable tag: 1.1
 
 The Whoosh Traffic plugin provides a Rank Tracker and a Keyword Research plugin integrated right into your blog.
 

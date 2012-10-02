@@ -4,7 +4,7 @@
  * Plugin Name: Rank Tracker
  * Plugin URI: http://whooshtraffic.com
  * Description: Whoosh Traffic's Rank Tracker right in your own blog.
- * Version: 0.5
+ * Version: 0.6
  * Author: Parnell Springmeyer
  * Author URI: mailto:support@whooshtraffic.com
  */
