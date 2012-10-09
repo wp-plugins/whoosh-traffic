@@ -9,7 +9,7 @@
  * Author URI: mailto:support@whooshtraffic.com
  */
 
-require_once('includes/whoosh-traffic_php_api/Ranktracker.php');
+require_once('includes/whoosh-traffic_api_php/Ranktracker.php');
 require_once('includes/plugin_callbacks.php');
 require_once('includes/Savant3-3.0.1/Savant3.php');
 
